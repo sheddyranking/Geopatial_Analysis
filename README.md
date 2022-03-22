@@ -16,6 +16,10 @@ call a `groupby` function on the `name` and `rate` column to return the mean of 
 
 #### Problem Statement =>  Get Distributions of Rating Column & try to find out what Distribution this Feature Support.
 
+##### Rating_distributions
+![rating_distribution](https://user-images.githubusercontent.com/42388234/159501938-464d905f-4488-4286-90a6-5839189e141c.png)
+
+
 Used `displot` from `searborn` to visualized Restuarants with highest Avg. ratings.
 
 #### Problem Statement =>  Top Restaurants Chains in Bangalore. 
