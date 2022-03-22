@@ -18,23 +18,46 @@ call a `groupby` function on the `name` and `rate` column to return the mean of 
 
 Used `displot` from `searborn` to visualized Restuarants with highest Avg. ratings.
 
-##### Rating_distributions
-![rating_distribution](https://user-images.githubusercontent.com/42388234/159501938-464d905f-4488-4286-90a6-5839189e141c.png)
-
 #### Problem Statement =>  Top Restaurants Chains in Bangalore. 
 
 use `value_counts()` on the `name` column to return the number of restaurants and there outlet. you can visualize using barplot 
 
-##### Top_chains Restauransts.
-![top_chains_restaurants](https://user-images.githubusercontent.com/42388234/159502509-25c622a9-b9cd-4b6c-b20e-d1157336f0ba.png)
-
-
 #### Problem Statement =>  How many of the Restuarants Do Not  Accep Online Orders . 
-
 Do a `value_counts` on the `online_order` column  and visualize using pie chart.
 
-##### Online_Orders [Accept/Do not Accept].
-![Online_order](https://user-images.githubusercontent.com/42388234/159502888-6972bd7a-a863-4efc-8dad-c90520e64362.png)
+
+####  Problem Statement =>   Ratio Between Restauarants that Provide Table and Restaurants that do not Provide Table.
+
+Do a `value_counts` on `book_table` and visualize using `graph_objs` from `plotly`
+
+###### NOTE:
+
+Different plotly Extension: 
+
+1. `import plotly.express as px` ploting `px.pie()` the `pie` is lowercase.
+
+2.  `import plotly.graph_objs as go` ploting `go.Pie()` the `Pie` is uppercase. (graph_objs takes on uppercase)
+
+
+####  Problem Statement =>  Indept  Analysis on Types of Restaurants we have.
+
+To discover the most populated species of Rest. Drop the `null` values in `rest_type` columns, do a `value_count` and visualize using `Bar` plot. 
+
+#### Problem Statement => Highest Voted Restaurants.
+
+group the `name` and `votes` of rest. and Visulize using `Bar`
+
+
+#### Problem Statement => Total Restaurants at different locations in Bangalore.
+
+create two list to store the group rest.locations and rest.names count. apply `sort_values()` function to return locations with highest number of rest.names_count.  
+
+
+
+
+
+
+
 
 
 
