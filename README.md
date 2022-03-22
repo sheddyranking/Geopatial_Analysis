@@ -39,7 +39,6 @@ Do a `value_counts` on the `online_order` column  and visualize using pie chart.
 
 Do a `value_counts` on `book_table` and visualize using `graph_objs` from `plotly`
 
-##### Bookings or Not.
 ![bookings_or_not](https://user-images.githubusercontent.com/42388234/159533186-f5a2c69d-da23-4f84-88d7-96e2f8124d00.png)
 
 
@@ -55,6 +54,9 @@ Different plotly Extension:
 ####  Problem Statement =>  Indept  Analysis on Types of Restaurants we have.
 
 To discover the most populated species of Rest. Drop the `null` values in `rest_type` columns, do a `value_count` and visualize using `Bar` plot. 
+
+##### Types of Rest.
+![types_rest](https://user-images.githubusercontent.com/42388234/159533426-562a47cd-38f6-4c04-8797-76fb48a173a6.png)
 
 #### Problem Statement => Highest Voted Restaurants.
 
