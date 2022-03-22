@@ -67,7 +67,12 @@ group the `name` and `votes` of rest. and Visulize using `Bar`
 
 #### Problem Statement => Total Restaurants at different locations in Bangalore.
 
-create two list to store the group rest.locations and rest.names count. apply `sort_values()` function to return locations with highest number of rest.names_count.  
+Create two list to store the group rest.locations and rest.names count. apply `sort_values()` function to return locations with highest number of rest.names_count.
+
+##### Rest_count by locations.
+
+![location_rest_count](https://user-images.githubusercontent.com/42388234/159534101-3fb30ff7-46dc-4835-bdfa-a1d8973394de.png)
+
 
 
 
