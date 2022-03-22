@@ -32,6 +32,8 @@ use `value_counts()` on the `name` column to return the number of restaurants an
 #### Problem Statement =>  How many of the Restuarants Do Not  Accep Online Orders . 
 Do a `value_counts` on the `online_order` column  and visualize using pie chart.
 
+![Online_order](https://user-images.githubusercontent.com/42388234/159532897-178495e6-ed06-4319-a750-bfb9fbaa3a7c.png)
+
 
 ####  Problem Statement =>   Ratio Between Restauarants that Provide Table and Restaurants that do not Provide Table.
 
