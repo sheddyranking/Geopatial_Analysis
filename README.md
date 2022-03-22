@@ -18,6 +18,9 @@ call a `groupby` function on the `name` and `rate` column to return the mean of 
 
 Used `displot` from `searborn` to visualized Restuarants with highest Avg. ratings.
 
+##### Rating Distr.
+![rating_distribution](https://user-images.githubusercontent.com/42388234/159532175-54b2e7fa-eacf-4553-a878-0bb868543b9f.png)
+
 #### Problem Statement =>  Top Restaurants Chains in Bangalore. 
 
 use `value_counts()` on the `name` column to return the number of restaurants and there outlet. you can visualize using barplot 
