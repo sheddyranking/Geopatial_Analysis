@@ -16,17 +16,17 @@ call a `groupby` function on the `name` and `rate` column to return the mean of 
 
 #### Problem Statement =>  Get Distributions of Rating Column & try to find out what Distribution this Feature Support.
 
+Used `displot` from `searborn` to visualized Restuarants with highest Avg. ratings.
+
 ##### Rating_distributions
 ![rating_distribution](https://user-images.githubusercontent.com/42388234/159501938-464d905f-4488-4286-90a6-5839189e141c.png)
-
-
-Used `displot` from `searborn` to visualized Restuarants with highest Avg. ratings.
 
 #### Problem Statement =>  Top Restaurants Chains in Bangalore. 
 
 use `value_counts()` on the `name` column to return the number of restaurants and there outlet. you can visualize using barplot 
 
 #### Problem Statement =>  How many of the Restuarants Do Not  Accep Online Orders . 
+
 Do a `value_counts` on the `online_order` column  and visualize using pie chart.
 
 
