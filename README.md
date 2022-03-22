@@ -25,6 +25,10 @@ Used `displot` from `searborn` to visualized Restuarants with highest Avg. ratin
 
 use `value_counts()` on the `name` column to return the number of restaurants and there outlet. you can visualize using barplot 
 
+##### Top Chains_rest.
+![top_chains_restaurants](https://user-images.githubusercontent.com/42388234/159532476-9b5b4298-a19a-4c0f-adfe-52d0aaf120d3.png)
+
+
 #### Problem Statement =>  How many of the Restuarants Do Not  Accep Online Orders . 
 Do a `value_counts` on the `online_order` column  and visualize using pie chart.
 
