@@ -39,6 +39,10 @@ Do a `value_counts` on the `online_order` column  and visualize using pie chart.
 
 Do a `value_counts` on `book_table` and visualize using `graph_objs` from `plotly`
 
+##### Bookings or Not.
+![bookings_or_not](https://user-images.githubusercontent.com/42388234/159533186-f5a2c69d-da23-4f84-88d7-96e2f8124d00.png)
+
+
 ###### NOTE:
 
 Different plotly Extension: 
