@@ -33,4 +33,8 @@ use `value_counts()` on the `name` column to return the number of restaurants an
 
 Do a `value_counts` on the `online_order` column  and visualize using pie chart.
 
+##### Online_Orders [Accept/Do not Accept].
+![Online_order](https://user-images.githubusercontent.com/42388234/159502888-6972bd7a-a863-4efc-8dad-c90520e64362.png)
+
+
 
