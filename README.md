@@ -62,6 +62,8 @@ To discover the most populated species of Rest. Drop the `null` values in `rest_
 
 group the `name` and `votes` of rest. and Visulize using `Bar`
 
+##### Most Voted_rest.
+![voted_rest](https://user-images.githubusercontent.com/42388234/159533758-4376a84e-629e-47e8-a362-06857015eece.png)
 
 #### Problem Statement => Total Restaurants at different locations in Bangalore.
 
