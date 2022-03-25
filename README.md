@@ -1,5 +1,5 @@
 # Geopatial_Analysis
-Geopatial Analysis Project Involving (Zomata Case Study) on Restuarants in Bangalore.
+Geopatial Analysis Project Involving (Zomata Case Study) on Restuarants,Hotels in Bangalore.
 
 #### Dataset:
 download dataset here https://drive.google.com/drive/u/0/folders/11-efbrZ5FZRPtcHaytKbtqwA20DZiORn 
@@ -72,6 +72,40 @@ Create two list to store the group rest.locations and rest.names count. apply `s
 ##### Rest_count by locations.
 
 ![location_rest_count](https://user-images.githubusercontent.com/42388234/159534101-3fb30ff7-46dc-4835-bdfa-a1d8973394de.png)
+
+#### Problem Statement =>  Total number of variety of Restaurants in Banglore
+
+Do a `Value_count` on `cuisines` column and Visualize using `Bar`
+
+#### Problem Statement => Appro Cost for 2 People Feature
+
+we need to remove the `','` in the `uique` features before `datatype` can be  converted from `obj` to `int` and also before `seaborn` can visualize it.
+
+#### Problem Statement =>  Analyse  'Approx. Cost  of 2 People' vs 'ratiing' Find out some Relationship.
+
+use `Scatterplot` to find out there relationship and and apply `hue` over the `online_order` to come with a conslusion 
+over the tap_rated restaurants that accept online_order.
+
+#### Problem Statement => Is there any difference b/w Votes of Restaurants Accepting and not  Accepting Online_Order.
+
+Do a `box plot`  on `Online Order` vs `votes` to see the d/f. 
+
+#### Problem Statement => Is there any difference b/w Price of Restaurants Accepting and not  Accepting Online_Order.
+
+Do a `box plot`  on `Online Order` vs `Appro Cost (for two people)` to see the d/f. 
+
+#### Problem Statement => Find Out the Most Luxurius Rest. in Banglore.
+
+find the `max` price for two people and filter the `df` to return rest with max_price.
+
+#### Problem Statement => Top 10 Most Expensive  Rest. with  Approx. Cost for two People.
+
+Make a copy of the `df` and reset `name` as `index` find the `nlargest` and visualized similary for `cheapest` rest find the `nsmallest` and visualized.
+
+#### Problem Statement => Find Out the Rest that are Below 500 as well as Affordable.
+
+Filter the Cost of two people on the rest less than 500. 
+
 
 
 
