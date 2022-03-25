@@ -98,6 +98,9 @@ over the tap_rated restaurants that accept online_order.
 
 Do a `box plot`  on `Online Order` vs `votes` to see the d/f. 
 
+![difference_bw_Votes_of_Restaurants_online_order](https://user-images.githubusercontent.com/42388234/160212198-5fbfc05a-5474-40cd-a9d9-5257482f15dc.png)
+
+
 #### Problem Statement => Is there any difference b/w Price of Restaurants Accepting and not  Accepting Online_Order.
 
 Do a `box plot`  on `Online Order` vs `Appro Cost (for two people)` to see the d/f. 
