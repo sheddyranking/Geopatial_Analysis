@@ -92,6 +92,8 @@ we need to remove the `','` in the `uique` features before `datatype` can be  co
 use `Scatterplot` to find out there relationship and and apply `hue` over the `online_order` to come with a conslusion 
 over the tap_rated restaurants that accept online_order.
 
+![Appro_2_peop_vs_rate](https://user-images.githubusercontent.com/42388234/160212076-c3fb93c0-76d7-4af9-afb5-103d69aad1c9.png)
+
 #### Problem Statement => Is there any difference b/w Votes of Restaurants Accepting and not  Accepting Online_Order.
 
 Do a `box plot`  on `Online Order` vs `votes` to see the d/f. 
