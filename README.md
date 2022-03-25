@@ -77,6 +77,9 @@ Create two list to store the group rest.locations and rest.names count. apply `s
 
 Do a `Value_count` on `cuisines` column and Visualize using `Bar`
 
+![Variety_rest](https://user-images.githubusercontent.com/42388234/160211910-c6b57640-c205-42e7-b64d-29ef9e47299f.png)
+
+
 #### Problem Statement => Appro Cost for 2 People Feature
 
 we need to remove the `','` in the `uique` features before `datatype` can be  converted from `obj` to `int` and also before `seaborn` can visualize it.
