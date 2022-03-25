@@ -105,6 +105,8 @@ Do a `box plot`  on `Online Order` vs `votes` to see the d/f.
 
 Do a `box plot`  on `Online Order` vs `Appro Cost (for two people)` to see the d/f. 
 
+![online_order_price_difference](https://user-images.githubusercontent.com/42388234/160212299-be375adb-ece1-41ba-94bb-74fc0476f199.png)
+
 #### Problem Statement => Find Out the Most Luxurius Rest. in Banglore.
 
 find the `max` price for two people and filter the `df` to return rest with max_price.
