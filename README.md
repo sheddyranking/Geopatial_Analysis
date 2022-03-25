@@ -84,6 +84,9 @@ Do a `Value_count` on `cuisines` column and Visualize using `Bar`
 
 we need to remove the `','` in the `uique` features before `datatype` can be  converted from `obj` to `int` and also before `seaborn` can visualize it.
 
+![Appr_2_peop_cost_plot](https://user-images.githubusercontent.com/42388234/160211992-0f867d7a-21b2-4a02-99ad-1a4641cc246e.png)
+
+
 #### Problem Statement =>  Analyse  'Approx. Cost  of 2 People' vs 'ratiing' Find out some Relationship.
 
 use `Scatterplot` to find out there relationship and and apply `hue` over the `online_order` to come with a conslusion 
