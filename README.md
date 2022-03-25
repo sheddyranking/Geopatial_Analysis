@@ -90,7 +90,7 @@ we need to remove the `','` in the `uique` features before `datatype` can be  co
 #### Problem Statement =>  Analyse  'Approx. Cost  of 2 People' vs 'ratiing' Find out some Relationship.
 
 use `Scatterplot` to find out there relationship and and apply `hue` over the `online_order` to come with a conslusion 
-over the tap_rated restaurants that accept online_order.
+over the top_rated restaurants that accept online_order.
 
 ![Appro_2_peop_vs_rate](https://user-images.githubusercontent.com/42388234/160212076-c3fb93c0-76d7-4af9-afb5-103d69aad1c9.png)
 
