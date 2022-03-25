@@ -115,6 +115,13 @@ find the `max` price for two people and filter the `df` to return rest with max_
 
 Make a copy of the `df` and reset `name` as `index` find the `nlargest` and visualized similary for `cheapest` rest find the `nsmallest` and visualized.
 
+###### Most Luxurius
+![Mosr_Exp_rest](https://user-images.githubusercontent.com/42388234/160212439-577b8691-0d86-409d-95d0-a3722e2f2924.png)
+
+###### Most Cheapest
+![Most_cheap_rest](https://user-images.githubusercontent.com/42388234/160212550-fb4bad7f-bc47-477a-9ef8-cbb71a991800.png)
+
+
 #### Problem Statement => Find Out the Rest that are Below 500 as well as Affordable.
 
 Filter the Cost of two people on the rest less than 500. 
