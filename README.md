@@ -146,7 +146,12 @@ Do a `value_count` on the `location` and visualized the most foodie areas.
 
 #### Geopatial Analysis.
 
-In this project, get the locations `name`, get the location `latitude and longitude`, `Merge` with location `Rest_count` and convert the `latitude and longitude` to array and generate a `baseMap` based on the `default_location` and `zoom_start` from the Restaurants_locations, to generate a `HeatMap` apply the function on the `lat`, `lon` and `count` of Restaurants locations and use value_tollist to convert to array and add it back to the basemap in other to visualized the HeatMpap on tne Restaurants locations.   
+In this project, get the locations `name`, get the location `latitude and longitude`, `Merge` with location `Rest_count` and convert the `latitude and longitude` to array and generate a `baseMap` based on the `default_location` and `zoom_start` from the Restaurants_locations, to generate a `HeatMap` apply the function on the `lat`, `lon` and `count` of Restaurants locations and use value_tollist to convert to array and add it back to the basemap in other to visualized the HeatMpap on tne Restaurants locations.
+##### Basemap
+![basemap](https://user-images.githubusercontent.com/42388234/160280113-c275bfa0-0e53-4d85-88e7-eebc0e4108f8.png)
+##### HeatMap Basemap
+![heatmap_basemap](https://user-images.githubusercontent.com/42388234/160280118-de8e1d96-f299-4185-a432-95ea1404a417.png)
+
 
 
 
