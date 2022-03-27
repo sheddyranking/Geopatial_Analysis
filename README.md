@@ -126,7 +126,19 @@ Make a copy of the `df` and reset `name` as `index` find the `nlargest` and visu
 
 Filter the Cost of two people on the rest less than 500. 
 
+#### Problem Statement => Rest. with Rating > 4 and the Budget are Good/Affordable.
 
+Filter the `rate` > 4 and `approx_cost(for two people` `columns` <=500  and return the `len` of the `unique` `name`.
+
+#### Problem Statement =>  Total Afordabele Hotels in all  the Locations in Bangalore. 
+
+Filter the `rate` > 4 and `approx_cost(for two people` `columns` <=500 and `group` the total number of hotels according to locations. 
+
+#### Problem Statement =>  Finding  the Best Budget Restaurant in any Location.
+
+Fileter the `df` on `Cost of two peop.`, `rate` and return the `location` and `restaurants` list passed in the filter.
+
+#### Problem Statement =>  Which Areas are the Foodie.
 
 
 
