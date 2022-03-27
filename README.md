@@ -140,6 +140,11 @@ Fileter the `df` on `Cost of two peop.`, `rate` and return the `location` and `r
 
 #### Problem Statement =>  Which Areas are the Foodie.
 
+Do a `value_count` on the `location` and visualized the most foodie areas. 
+
+![foodie](https://user-images.githubusercontent.com/42388234/160273813-88b563b2-bb58-4d98-9b71-bc4c68efdc1d.png)
+
+
 
 
 
