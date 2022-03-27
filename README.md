@@ -154,6 +154,13 @@ In this project, get the locations `name`, get the location `latitude and longit
 ##### HeatMap Basemap
 ![heatmap_basemap](https://user-images.githubusercontent.com/42388234/160280118-de8e1d96-f299-4185-a432-95ea1404a417.png)
 
+##### Heat map of North Indian Restaurants
+
+Filter the `north_indian` rest.count and `merge` it with the `locations df` and apply the HeatMap on the `lat` and `lon` from the basemap function to visualize.
+
+##### Which are the Most Popular Casual Dining Restaurants Chains.
+
+group the `name` of restaurants according to there `rest_type` and `agg` count, group again and sort according to `url` to get a total count, filter out the `name`, `url` and `rest_type` columns. To get Most Popular Casual Dining Restaurants Chains. Do a filter on the `rest_type`. 
 
 
 
