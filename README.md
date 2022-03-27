@@ -144,7 +144,7 @@ Do a `value_count` on the `location` and visualized the most foodie areas.
 
 ![foodie](https://user-images.githubusercontent.com/42388234/160273813-88b563b2-bb58-4d98-9b71-bc4c68efdc1d.png)
 
-#### Geopatial Analysis.
+## Geopatial Analysis.
 
 In this project, get the locations `name`, get the location `latitude and longitude`, `Merge` with location `Rest_count` and convert the `latitude and longitude` to array and generate a `baseMap` based on the `default_location` and `zoom_start` from the Restaurants_locations, to generate a `HeatMap` apply the function on the `lat`, `lon` and `count` of Restaurants locations and use value_tollist to convert to array and add it back to the basemap in other to visualized the HeatMpap on tne Restaurants locations.
 
@@ -157,6 +157,8 @@ In this project, get the locations `name`, get the location `latitude and longit
 ##### Heat map of North Indian Restaurants
 
 Filter the `north_indian` rest.count and `merge` it with the `locations df` and apply the HeatMap on the `lat` and `lon` from the basemap function to visualize.
+
+![north_india_heatmap](https://user-images.githubusercontent.com/42388234/160284535-452d5ada-bf09-44a6-aa28-a7c9dad0c017.png)
 
 ##### Which are the Most Popular Casual Dining Restaurants Chains.
 
